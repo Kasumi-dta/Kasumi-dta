@@ -23,12 +23,13 @@
 > **LemonSign** is a fast, elegant, on-device iOS app signer and sideloading utility built with signature **Lemon Yellow** aesthetic.
 
 - 🍋 **Lemon Yellow Branding**: Fully customized dark theme with pixel-art lemon identity.
-- ⚡ **Offline C++ Signing**: Built-in `zsign` core for lightning-fast on-device IPA signing without a computer.
+- ⚡ **LemonTurbo Engine**: Multi-core parallel hashing and offline C++ `zsign` signing utilizing 100% of the device's CPU cores.
+- 🔄 **In-App Auto-Updater**: Direct remote OTA update checking with 1-click update directly from GitHub Releases.
 - 🛡️ **Real-Time Jailbreak Detection**: Live status indicator distinguishing stock iOS from rootless / rootful jailbreak environments.
 - 📡 **Smart Localhost OTA Server**: One-click wireless installation with automatic server switching and SSL fallback.
 - 💉 **Tweak & Dylib Injection**: Inject frameworks and dylibs directly into your favorite apps.
 
-👉 **[Download Latest LemonSign (.IPA)](https://github.com/Kasumi-dta/LemonSign/releases/tag/beta)** | 💬 **[Join Telegram Community](https://t.me/applep12vnn)**
+👉 **[Download Latest LemonSign Beta 2 (.IPA)](https://github.com/Kasumi-dta/LemonSign/releases/tag/beta2)** | 💬 **[Join Telegram Community](https://t.me/applep12vnn)**
 
 ---
 
