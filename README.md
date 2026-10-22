@@ -29,7 +29,7 @@
 - 📡 **Smart Localhost OTA Server**: One-click wireless installation with automatic server switching and SSL fallback.
 - 💉 **Tweak & Dylib Injection**: Inject frameworks and dylibs directly into your favorite apps.
 
-👉 **[Download Latest LemonSign Beta 2 (.IPA)](https://github.com/Kasumi-dta/LemonSign/releases/tag/beta2)** | 💬 **[Join Telegram Community](https://t.me/applep12vnn)**
+👉 **[Download Latest LemonSign Beta 3 (.IPA)](https://github.com/Kasumi-dta/LemonSign/releases/tag/beta3)** | 💬 **[Join Telegram Community](https://t.me/applep12vnn)**
 
 ---
 
