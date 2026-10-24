@@ -18,9 +18,11 @@
 
 ---
 
-### 🌟 Featured Project: [LemonSign](https://github.com/Kasumi-dta/LemonSign)
+### 🌟 Project: [LemonSign](https://github.com/Kasumi-dta/LemonSign) `[ĐÃ NGỪNG HỖ TRỢ / DISCONTINUED]`
 
-> **LemonSign** is a fast, elegant, on-device iOS app signer and sideloading utility built with signature **Lemon Yellow** aesthetic.
+> ⚠️ **Thông báo**: Dự án **LemonSign** đã chính thức **ngừng hỗ trợ và ngừng phát triển** do các rào cản thu hồi chứng chỉ và hạn chế hệ thống trên iOS. Cảm ơn mọi người đã đồng hành!
+
+> **LemonSign** is an on-device iOS app signer and sideloading utility built with signature **Lemon Yellow** aesthetic.
 
 - 🍋 **Lemon Yellow Branding**: Fully customized dark theme with pixel-art lemon identity.
 - ⚡ **LemonTurbo Engine**: Multi-core parallel hashing and offline C++ `zsign` signing utilizing 100% of the device's CPU cores.
